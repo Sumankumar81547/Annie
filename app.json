@@ -52,7 +52,7 @@
       "OWNER_ID": {
          "description": "Id of bot owner",
          "required": true,
-         "value": "6922271843" 
+         "value": "6615076069" 
       },
      "MONGO_URL": {
          "description": "Add a Mongodb url to store data",
